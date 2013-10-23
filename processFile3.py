@@ -1,6 +1,6 @@
 
 """
-
+Description:
 This script was written to process a specific excel spreadsheet and go to the directory and pull an  email address 
 for of the entries from directory.utexas.edu.
 
